@@ -40,6 +40,10 @@ img.profile-pic {
 	border: 1px solid #fff;
 }
 
+img.logo {
+	padding: 10px;
+}
+
 .container {
 	margin: 0 auto;
 	position: relative;
